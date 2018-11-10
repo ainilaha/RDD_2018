@@ -276,7 +276,7 @@ def create_generators(args, preprocess_image):
         )
 
     elif args.dataset_type == "rdd":
-        df_path = os.path.join(args.rdd_path, "dataset.csv")
+        df_path = os.path.join(args.rdd_path, "trainset.csv")
         images_df = pd.read_csv(df_path)
         images_df = sklearn.utils.shuffle(images_df)
 
