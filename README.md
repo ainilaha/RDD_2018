@@ -5,7 +5,7 @@ The implementation is based on [Keras RetinaNet](https://github.com/fizyr/keras-
 
 ## Installation
 
-1) Clone this repository.
+1) Clone or download this repository.
 2) Ensure numpy is installed using `pip install numpy --user`
 3) In the repository, execute `pip install . --user`.
    Note that due to inconsistencies with how `tensorflow` should be installed,
