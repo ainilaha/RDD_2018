@@ -93,9 +93,16 @@ You can change backbones and other parameters in `python submit_results.py`.
 Run below command and produce csv file `submit_res152_55.csv` that can
 submit to the competition platform.
 
-
-```shell
-# Running directly from the repository:
-python submit_results.py
-
-```
+#### More detail can refer the paper
+`@INPROCEEDINGS{8622025, 
+author={L. Ale and N. Zhang and L. Li}, 
+booktitle={2018 IEEE International Conference on Big Data (Big Data)}, 
+title={Road Damage Detection Using RetinaNet}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={5197-5200}, 
+keywords={Roads;Computational modeling;Deep learning;Training;Detectors;Neural networks;Object detection;Road Damage;Detection;Deep learning}, 
+doi={10.1109/BigData.2018.8622025}, 
+ISSN={}, 
+month={Dec},}`
