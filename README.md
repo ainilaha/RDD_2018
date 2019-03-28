@@ -3,6 +3,19 @@ This repository for Road [Damage Detection and Classification Challenges](https:
 dataset collected by University of Tokyo and published in [https://doi.org/10.1111/mice.12387](https://doi.org/10.1111/mice.12387).
 The implementation is based on [Keras RetinaNet](https://github.com/fizyr/keras-retinanet)
 
+#### More detail can refer the paper
+`@INPROCEEDINGS{8622025, 
+author={L. Ale and N. Zhang and L. Li}, 
+booktitle={2018 IEEE International Conference on Big Data (Big Data)}, 
+title={Road Damage Detection Using RetinaNet}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={5197-5200}, 
+doi={10.1109/BigData.2018.8622025}, 
+ISSN={}, 
+month={Dec},}`
+
 ## Installation
 
 1) Clone this repository.
@@ -93,16 +106,3 @@ You can change backbones and other parameters in `python submit_results.py`.
 Run below command and produce csv file `submit_res152_55.csv` that can
 submit to the competition platform.
 
-#### More detail can refer the paper
-`@INPROCEEDINGS{8622025, 
-author={L. Ale and N. Zhang and L. Li}, 
-booktitle={2018 IEEE International Conference on Big Data (Big Data)}, 
-title={Road Damage Detection Using RetinaNet}, 
-year={2018}, 
-volume={}, 
-number={}, 
-pages={5197-5200}, 
-keywords={Roads;Computational modeling;Deep learning;Training;Detectors;Neural networks;Object detection;Road Damage;Detection;Deep learning}, 
-doi={10.1109/BigData.2018.8622025}, 
-ISSN={}, 
-month={Dec},}`
