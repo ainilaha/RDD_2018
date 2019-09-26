@@ -69,7 +69,7 @@ Trained models can't be used directly for inference. To convert a trained model 
 
 ### Usage
 For training on Road Damage Dataset, the re-organized dataset can download 
-[here](https://www.dropbox.com/s/zwd309g4u4derfi/road_damage_dataset.zip?dl=0).
+[here](https://www.dropbox.com/s/r8j4quebqd6x0oo/road_damage_dataset.zip?dl=0).
 
 
 Note: The original dataset was organized by locations. In order to ease to address the data we moved
