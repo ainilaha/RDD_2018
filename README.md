@@ -4,6 +4,8 @@ dataset collected by University of Tokyo and published in [https://doi.org/10.11
 The implementation is based on [Keras RetinaNet](https://github.com/fizyr/keras-retinanet)
 
 #### More details can refer the paper:
+[Road Damage Detection Using RetinaNet](https://ieeexplore.ieee.org/document/8622025)
+And cite the paper:
 `@INPROCEEDINGS{8622025, 
 author={L. Ale and N. Zhang and L. Li}, 
 booktitle={2018 IEEE International Conference on Big Data (Big Data)}, 
