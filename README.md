@@ -6,7 +6,7 @@ The implementation is based on [Keras RetinaNet](https://github.com/fizyr/keras-
 #### More details can refer the paper:
 [Road Damage Detection Using RetinaNet](https://ieeexplore.ieee.org/document/8622025)
 
-And cite the paper:
+And please cite the paper if you use code:
 
 `@INPROCEEDINGS{8622025, 
 author={L. Ale and N. Zhang and L. Li}, 
@@ -72,7 +72,7 @@ The default backbone is `resnet50`. You can change this using the `--backbone=xx
 Trained models can't be used directly for inference. To convert a trained model to an inference model, check [here](https://github.com/ainilaha/RDD_2018/blob/master/keras_retinanet/bin/convert_model.py).
 
 ### Usage
-For training on Road Damage Dataset, the re-organized dataset can download 
+For training and testing on Road Damage Dataset, the re-organized dataset can download 
 [here](https://www.dropbox.com/s/r8j4quebqd6x0oo/road_damage_dataset.zip?dl=0).
 
 
